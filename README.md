@@ -414,7 +414,3 @@ Future improvements may include:
 - Advanced container orchestration
 
 ---
-
-# 📜 License
-
-This project is for educational purposes under the Holberton School curriculum.
